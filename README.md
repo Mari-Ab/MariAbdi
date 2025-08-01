@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **R, AWS, Azure**
 
-- 👨‍💻 All of my projects are available at [https;//gothub.com/Mari-Ab](https;//gothub.com/Mari-Ab)
+- 👨‍💻 All of my projects are available at [https://gothub.com/Mari-Ab](https://gothub.com/Mari-Ab)
 
 - 💬 Ask me about **Data cleaning, wrangling, visualization**
 
