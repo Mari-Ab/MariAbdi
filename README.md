@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari-ab&label=Profile%20views&color=0e75b6&style=flat" alt="mari-ab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mari-ab" alt="mari-ab" /></a> </p>
-
 - 🔭 I’m currently working on **python**
 
 - 🌱 I’m currently learning **R, AWS, Azure**
