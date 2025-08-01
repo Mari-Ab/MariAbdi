@@ -1,3 +1,4 @@
+![logo](https://github.com/Mari-Ab/MariAbdi/blob/main/focused-data-analyst-stockcake.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Marjan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
