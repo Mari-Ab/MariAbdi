@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari-ab&label=Profile%20views&color=0e75b6&style=flat" alt="mari-ab" /> </p>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **python, SQL, R**
 
-- 🌱 I’m currently learning **R, AWS, Azure**
+- 🌱 I’m currently learning **AWS, Azure**
 
 - 👨‍💻 All of my projects are available at [https://gothub.com/Mari-Ab](https://gothub.com/Mari-Ab)
 
