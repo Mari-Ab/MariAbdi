@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marjan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
+<img align="right" alt="Marjan" width="400" src="https://cdn.dribbble.com/userupload/32653920/file/original-3ada0449e0b27d3d295c63e7775bda43.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari-ab&label=Profile%20views&color=0e75b6&style=flat" alt="mari-ab" /> </p>
 
 - 🔭 I’m currently working on **python**
