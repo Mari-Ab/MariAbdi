@@ -1,3 +1,4 @@
+<img src="https://github.com/Mari-Ab/MariAbdi/blob/main/ban.jpg?raw=true">
 <h1 align="center">Hi 👋, I'm Marjan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
