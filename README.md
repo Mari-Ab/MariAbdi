@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🌟 Data Enthusiast | 🧠 AI Enthusiast | 📈 Data Analyst | 📍 Toronto, ON
+  📈 Data Analyst |🌟 Data Enthusiast | 🧠 AI Enthusiast | 📍 Toronto, ON
 </h3>
 
 
