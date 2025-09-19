@@ -28,13 +28,13 @@
 ---
 ### 🧰 Tech Toolbox
 
-| 💻 **Languages**  | 📊 **Data Tools** | ☁️ **Cloud/DevOps**   | 🧩 **Project Tools**         | **Libraries**    |
+| 💻 **Languages**  | 📊 **Data Tools** | ☁️ **Cloud/DevOps**   | 🧩 **Project Tools**         | 📚**Libraries**    |
 |--------------------|-------------------|-----------------------|-------------------------------|------------------|
 | Python 🐍         | IBM Cognos 📈, Power BI 🎨  | AWS ☁️                 | Trello 📋           |  Pandas          |
-| SQL 🧪            |  Excel 📊, Mysql 🗂, SQLite 🗂 | Azure AI (Studying)          | Agile (Scrum) 📘    |  MatplotLib         |
-| R 🎨              | Anaconda🧠 , Jupyter 📓     |  Google Cloud  🚀       | Canva 🎨             |  Numpy           |
-|                    | IBM SPSS📈,  R 🎨,Vscode🔧 |                         | Kanban 📋            |   Seaborn              |
-|                   |  plotly 📈 , Folium🌐   |                        |                       |                   |
+| SQL 🧪            |  Excel 📊, Mysql 💻, SQLite 🧠 | Azure AI (Studying)🤖          | Agile (Scrum) 📘    |  MatplotLib         |
+| R 🔧              | Anaconda👩‍💻 , Jupyter 📓,Tableau 📊     |  Google Cloud  📂       | Canva 🎨             |  Numpy           |
+|                    | IBM SPSS📈,Looker 📊  ,Vscode👩‍💻 |                        | Kanban 📋            |   Seaborn              |
+|                   |  plotly 📈 , Folium🌐, R 🎨  |                        |                       |                   |
 ---
 ### 📚 Education & Certifications
 
@@ -66,8 +66,9 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   &nbsp;
   <a href="https://kaggle.com/marjanabdi">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
+   
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
@@ -78,6 +79,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mari-ab&" alt="mari-ab" /></p>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h1 align="center">
+  <a href="https://karamazfolio.xyz/"><img src="https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="80" height="80" alt="Original Karama logo asset.">
+    
+### Show your support
+
+Give a ⭐ if you like my page!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 
