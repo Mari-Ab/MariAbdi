@@ -1,6 +1,6 @@
 <img src="https://github.com/Mari-Ab/MariAbdi/blob/main/ban.jpg?raw=true">
 <h1 align="center">
-  <b>Hey there! 👋 I'm <span style="color:#F39C12;">Marjan Abdi</span></b>
+  <b>Hey there! 👋 I'm <span style="color:#F39C12;">Marjan</span></b>
 </h1>
 
 <h3 align="center">
